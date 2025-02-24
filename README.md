@@ -1,1 +1,4 @@
-# yolo-pann-count-vehicles
+# yolo-pann-count-vehicles  
+conda create -n yolopann python  
+conda activate yolopann  
+pip install ultralytics moviepy panns_inference opencv-python
